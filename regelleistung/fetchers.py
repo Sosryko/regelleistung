@@ -4,7 +4,6 @@ import pandas as pd
 import requests as rq
 from enum import Enum
 from io import BytesIO
-from pathlib import Path
 from pydantic import BaseModel
 from abc import ABC, abstractmethod
 
